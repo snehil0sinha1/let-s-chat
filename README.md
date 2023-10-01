@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# Let's Chat
 
-Talk-a-tive is a Full Stack Chatting App.
+Let's Chat is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -12,8 +12,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Database:** Mongo DB
   
 ## Demo
-
-https://talk-a-tive.herokuapp.com/
+https://lets-chat-15na.onrender.com
 
 ![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/main-screen.png)
 ## Run Locally
@@ -60,20 +59,18 @@ Start the Client
 ### Authenticaton
 ![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/authentication.png)
 ![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/one-on-one.png)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/group.png)
+
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/upadte-delete.png)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/profile.PNG)
 ## Made By
 
 - [@Snehil](https://github.com/snehil0sinha1)
