@@ -14,6 +14,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ## Demo
 https://lets-chat-15na.onrender.com
 
+
 ![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/main-screen.png)
 ## Run Locally
 
