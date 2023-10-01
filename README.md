@@ -21,13 +21,13 @@ https://talk-a-tive.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  [git clone https://github.com/snehil0sinha1/let-s-chat.git]
 ```
 
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd let-s-chat
 ```
 
 Install dependencies
@@ -58,8 +58,8 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![]([https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/authentication.png])
+![]([https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/signup.PNG])
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
@@ -76,6 +76,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [@Snehil](https://github.com/snehil0sinha1)
 
   
