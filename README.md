@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/main-screen.png)
 ## Run Locally
 
 Clone the project
@@ -58,8 +58,8 @@ Start the Client
 # Features
 
 ### Authenticaton
-![]([https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/authentication.png])
-![]([https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/signup.PNG])
+![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/authentication.png)
+![](https://github.com/snehil0sinha1/let-s-chat/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
